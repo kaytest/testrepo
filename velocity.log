@@ -6,8 +6,7 @@
 2013-09-12 19:07:22,187 - ResourceManager : found tpluaskin.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
 2013-09-12 19:07:22,189 - ResourceManager : found tpluaskin.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
 2013-09-12 19:07:22,190 - ResourceManager : found tpluaskin.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
-2013-09-12 19:07:22,192 - ResourceManager : found tpluaskin.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
-2013-09-12 19:07:22,193 - ResourceManager : found tpluaskin.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2013-09-12 19:07:22,192 - ResourceManager : found tpluaskin.vm with loader org.apacoader.ClasspathResourceLoader
 2013-09-12 19:07:22,195 - ResourceManager : found tpluaskin.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
 2013-09-12 19:07:22,196 - ResourceManager : found tpluaskin.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
 2013-09-12 19:07:22,198 - ResourceManager : found tpluaskin.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
